@@ -1,7 +1,7 @@
 # 14-Python-Machine-Learning
 14-Python-Machine-Learning
 
-### [Go to Home Page](https://github.com/celik-muhammed)
+### [Go to Index Page](https://github.com/celik-muhammed/00-Index-of-GitHub-Public-Projects-Repository-Logs/blob/master/README.md)
 
 <div align="center">
   
